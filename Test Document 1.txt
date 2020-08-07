@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Test for Test Document , all changes made by Shreya for demo- Merge test case
-=======
-Test for Test Document , all changes made by Shreya for demo and merge conflicts
->>>>>>> 68199b642002456c52cd32481911485df0b2895d
+New Test
+
