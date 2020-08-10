@@ -1,1 +1,2 @@
 Second document of the repository
+Test for merge
